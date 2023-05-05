@@ -26,7 +26,7 @@ ParticleEx: https://www.mixmods.com.br/2021/10/iii-vc-particleex-sistema-de-efei
 
 Sand Castles: https://libertycity.net/files/gta-vice-city/125647-pesochnye-zamki.html
 
-Proper Weapon Retex+10th Aniversary Icons: https://www.mediafire.com/file/d0wmd95lbvdoymq/Proper_Weapon_Retex.rar/file
+80s Atmosphere Weapons Pack: https://www.gtainside.com/en/vicecity/weapons/82556-vc-80s-atmosphere-weapons-pack-v1-0/
 
 Particle HD: https://www.mediafire.com/file/ekn9lt4j9jmhcrx/(VC)+Particle+PS2_HD.rar/file
 
