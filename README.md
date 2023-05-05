@@ -18,7 +18,7 @@ Puerto de cámara del vehículo SA: https://www.mixmods.com.br/2020/04/iii-vc-sa
 
 Real Traffic Fix: https://www.mixmods.com.br/2020/02/vc-sa-real-traffic-fix-v2-1-1-beta/
 
-SkyGfx: https://www.mixmods.com.br/2020/02/iii-vc-skygfx-3-0b/
+SkyGfx: https://www.mediafire.com/file/uwx0b2wp4u6a7oo/SkyGFX(XboxClassicConfig).rar/file
 
 Sharptrails: https://www.mixmods.com.br/2018/04/iii-vc-sharp-trails-v2-0a-remover-rastro-blur/
 
